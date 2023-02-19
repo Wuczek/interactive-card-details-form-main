@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-credit-card-using-vanilla-htmlcssjs-NGcM-pHW5X)
-- Live Site URL: [Add live site URL here](https://capable-otter-07926b.netlify.app)
+- Solution URL: [Click me!](https://www.frontendmentor.io/solutions/interactive-credit-card-using-vanilla-htmlcssjs-NGcM-pHW5X)
+- Live Site URL: [Click me!](https://capable-otter-07926b.netlify.app)
 
 ### What I learned
 
